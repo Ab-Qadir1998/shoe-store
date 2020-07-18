@@ -1,0 +1,49 @@
+{
+    "nike-react-element-55": {
+        "name" : "Nike React Element",
+        "img" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/91e0c7bc-0baa-4f2e-8581-6adbebdff1a7/react-element-55-se-mens-shoe-mZPF15.jpg",
+        "price" : 95
+    },
+        
+        "nike-air-max-tailwind": {
+        "name" : "Nike Air Max Tailwind",
+        "img" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/nkrgeelfkj4zgvfsfsup/air-max-tailwind-iv-mens-shoe-fF5q8X.jpg",
+        "price" : 105
+    },
+        
+        "air-jordan-1-mid-se": {
+        "name" : "Air Jordan 1 Mid SE",
+        "img" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e461a1aa-da96-473f-ac40-32f430d4336a/air-jordan-1-mid-se-mens-shoe-P7bjRV.jpg",
+        "price" : 115
+    },
+        
+        "nike-airmax-270-react": {
+        "name" : "Nike Air Max 270 React",
+        "img" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7508e774-d314-4a85-aeff-bc26fe3548a1/air-max-270-react-mens-shoe-bZ8t5l.jpg",
+        "price" : 65
+    },
+        
+        "nike-mx-720-818": {
+        "name" : "Nike MX-720-818",
+        "img" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b811c4ac-46bb-4a36-a1c4-78c3480dcc60/mx-720-818-mens-shoe-HX1Wph.jpg",
+        "price" : 75
+    },
+        
+        "nike-react-sertu": {
+        "name" : "Nike React Sertu",
+        "img" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/hhw4tdisiwolfdnc1yiz/react-sertu-mens-shoe-ZTbZ9T.jpg",
+        "price" : 93
+    },
+        
+        "nike-air-zoom-pegasus": {
+        "name" : "Nike Air Zoom Pegasus",
+        "img" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ece6ebd0-a190-4ca9-a123-6835c2fb4a43/air-zoom-pegasus-36-trail-mens-trail-running-shoe-r48p3j.jpg",
+        "price" : 200
+    },
+        
+        "nike-huarache-type": {
+        "name" : "Nike Hurarche Type",
+        "img" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8fc2dabc-3c95-4b84-9d91-94823d4e03a0/huarache-type-mens-shoe-qqS4Np.jpg",
+        "price" : 206
+    }
+}
