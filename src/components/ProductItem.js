@@ -11,7 +11,7 @@ import ShoeData from '../data.json'
     return (
 
         <div>
-           <div className="product-item">
+           <div className="product-item r-img">
                         <img src={shoe.img} width={500} alt={shoe.name}/>
                         <h3>{shoe.name}</h3>
                         <p>${shoe.price}</p>

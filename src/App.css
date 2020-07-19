@@ -110,6 +110,9 @@ nav .logo {
   .product-item {
     width: 100%;
   }
+  .r-img {
+    width: 300px;
+  }
 }
 @media (max-width:375px)
 {
