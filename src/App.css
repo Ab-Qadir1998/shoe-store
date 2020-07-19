@@ -108,9 +108,9 @@ nav .logo {
     padding: .5rem;
   }
   .product-item {
-    width: 100%;
+    width: 95%;
   }
-  .r-img {
+  .r-img img{
     width: 300px;
   }
 }
